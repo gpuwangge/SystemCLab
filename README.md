@@ -18,8 +18,8 @@ SystemC example source codes
 ### tlm/   
 TLM example source codes 
 ## How to rebuild SystemC.lib
-If for some reason you want to rebuild SystemC.lib (ex: x86), this is the step:
-In the SystemC/TLM download webpage, download main zip file, such as:  
+If for some reason you want to rebuild SystemC.lib (ex: x86), this is the step:  
+In the SystemC/TLM download webpage, download core zip file, such as:  
 Core SystemC Language and Examples (.zip) 2022-12-01  
 After unzip file, open msvc10/, click SystemC.sln and build  
 build libs are here: msvc10\SystemC\x64\Debug
