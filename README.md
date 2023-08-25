@@ -24,6 +24,6 @@ Core SystemC Language and Examples (.zip) 2022-12-01
 After unzip file, open msvc10/, click SystemC.sln and build  
 build libs are here: msvc10\SystemC\x64\Debug
 ## Visual Studio 2022 Compatibility
-This project is created with Visual Studio 2019
-If open with Visual Studio 2022, a window will pop out to ask for upgrade Platform Toolset from v142 to v143
+This project is created with Visual Studio 2019  
+If open with Visual Studio 2022, a window will pop up to ask for upgrade Platform Toolset from v142 to v143
 The project should build fine
