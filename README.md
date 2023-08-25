@@ -1,12 +1,11 @@
 # What is SystemC
-SystemC is a language built in standard C++ to model Hardware.
+SystemC is a language built in standard C++ to model Hardware.   
 https://systemc.org/overview/systemc/#systemc
 # What is SystemC Lab
 SystemC Lab is sandbox with SystemC/TLM example code based on:  
 https://www.accellera.org/downloads/standards/systemc
 ## Build
-Open SystemC_examples.sln or tlm_examples.sln in build-msvc  
-with Visual Studio(2019 or later) and build  
+Open SystemC_examples.sln or tlm_examples.sln in build-msvc/ with Visual Studio(2019 or later) and build  
 
 ## File Details
 ### libs/ 
