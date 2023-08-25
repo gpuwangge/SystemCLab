@@ -6,8 +6,7 @@ SystemC Lab is sandbox with SystemC/TLM example code based on:
 https://www.accellera.org/downloads/standards/systemc
 ## Build
 Open SystemC_examples.sln or tlm_examples.sln in build-msvc/ with Visual Studio(2019 or later) and build  
-
-## File Details
+## Structure
 ### libs/ 
 SystemC.lib 
 (build from systemc-2.3.4, Visual Studio 2019, Debug, x64)
