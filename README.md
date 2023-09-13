@@ -1,4 +1,6 @@
 # What is SystemC
+![Windows](https://img.shields.io/badge/Windows-passing-green)
+
 SystemC is a language built in standard C++ to model Hardware.   
 https://systemc.org/overview/systemc/#systemc
 # What is SystemC Lab
